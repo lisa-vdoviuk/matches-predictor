@@ -1,6 +1,3 @@
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/e48ecffe-7a6c-4492-ab79-54cea091098a" />
-
-
 **🎾 Sports Match Prediction System**
 
 A hybrid machine learning and large language model system for predicting professional sports match outcomes with high accuracy.
@@ -69,3 +66,5 @@ Requires local Ollama installation for LLM features
 - feedparser: RSS feed parsing
 - Ollama: Local LLM inference
 - ThreadPoolExecutor: Parallel processing
+
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/e48ecffe-7a6c-4492-ab79-54cea091098a" />
