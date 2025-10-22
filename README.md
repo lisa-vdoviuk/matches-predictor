@@ -15,7 +15,6 @@ A hybrid machine learning and large language model system for predicting profess
 
 | Name     | Accuracy  | ROC AUC|
 |----------|-----------|--------|
-
 | Model v1 | 76.2%     | 0.88   |
 | Model v2 | 78.3%     | 0.907  |
 | Model v3 | 80.1%     | 0.921  |
