@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/e48ecffe-7a6c-4492-ab79-54cea091098a" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/e48ecffe-7a6c-4492-ab79-54cea091098a" />
 
 
 **🎾 Sports Match Prediction System**
